@@ -1,0 +1,13 @@
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\bin\Debug\Diploma.exe.config
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\bin\Debug\Diploma.exe
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\bin\Debug\Diploma.pdb
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.csprojResolveAssemblyReference.cache
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.Properties.Resources.resources
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.csproj.GenerateResource.Cache
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.exe
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.pdb
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.MainWindow.resources
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.About.resources
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.Debug.resources
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.Settings.resources
+D:\DIPLOMA\Translacija_program\Diploma\Diploma\obj\Debug\Diploma.How_to_use.resources
